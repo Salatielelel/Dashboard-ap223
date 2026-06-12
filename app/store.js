@@ -6,8 +6,8 @@
 (function () {
   "use strict";
 
-  var SUPABASE_URL = "https://tnwmjrtosepnqzxeyuvb.supabase.co";
-  var SUPABASE_KEY = "sb_publishable_kosdlmfYL8inkU8KL4JAzA_SaYHGpNJ";
+  var SUPABASE_URL = (window._AP223 && window._AP223.url) || "";
+  var SUPABASE_KEY = (window._AP223 && window._AP223.key) || "";
 
   var sb = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
 
