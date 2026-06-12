@@ -2,7 +2,6 @@
 
 App web para moradores de apartamento organizarem a rotina da casa. Desenvolvido para uso real entre 3 pessoas, com sincronização em tempo real entre dispositivos.
 
-**→ [Ver app ao vivo](https://223.up.railway.app)**
 
 ---
 
